@@ -5,4 +5,5 @@
     <integer name="card_flip_time_full">300</integer>
     <integer name="card_flip_time_half">150</integer>
     <integer name="seekBar_margin">81</integer>
+	<integer name="google_play_services_version">7327000</integer>
 </resources>
